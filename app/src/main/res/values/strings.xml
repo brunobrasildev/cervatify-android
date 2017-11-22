@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Cervatify</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="add">Adicionar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+    <string name="mapa">Mapa</string>
+    <string name="google_maps_key">AIzaSyAx2Wy0DFBt3CROG8iOmxL659ccKLxw96w</string>
 
-    <string name="action_settings">Settings</string>
 </resources>
